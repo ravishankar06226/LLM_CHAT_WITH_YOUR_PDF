@@ -1,0 +1,9 @@
+name : LLM_CHAT_WITH_YOUR_PDF
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - -r requirements.txt

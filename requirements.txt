@@ -1,0 +1,10 @@
+openai
+python-dotenv
+llama-index
+pypdf
+sentence_transformers
+fastapi
+uvicorn
+llama-index-embeddings-huggingface
+llama_index.llms.ollama
+dash
